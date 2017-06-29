@@ -1,0 +1,8 @@
+Ks,Kd,1c,8d,Jc,Js
+4h,9d,1s,8c,7s,2d
+9c,9h,4s,3c,Jd,Qc
+7h,2s,8s,7c,2c,Qs
+1d,5c,2h,Qd,7d,5s
+6h,9s,Qh,6s,Kc,6c
+4c,4d,3d,1h,Jh,6d
+5d,3h,5h,Kh,3s,8h
